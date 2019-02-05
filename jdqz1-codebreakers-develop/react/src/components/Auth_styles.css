@@ -1,0 +1,13 @@
+.main_view {
+    display: flex;
+    padding: 0 40px;
+}
+
+.registation-form__logo {
+    display: flex;
+}
+
+.nav-tabs {
+    display: flex;
+    justify-content: center;
+}
